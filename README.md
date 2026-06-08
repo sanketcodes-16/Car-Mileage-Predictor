@@ -173,21 +173,15 @@ Fuel Efficiency: Good
 
 ### Home Page
 
-```markdown
-![Home Page](Screenshots/home_page.png)
-```
+![alt text](screenshots/Home_page.png)
 
 ### Prediction Page
 
-```markdown
-![Prediction Page](Screenshots/prediction_page.png)
-```
+![alt text](screenshots/prediction_page.png)
 
 ### Result Page
 
-```markdown
-![Result Page](Screenshots/result_page.png)
-```
+![alt text](screenshots/Result_page.png)
 
 ---
 
